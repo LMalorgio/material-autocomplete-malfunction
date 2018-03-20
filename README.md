@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 There are several issues I noticed with Material's autocomplete component that I'd like to report (I'm bringing them all up here because I think they're related). These essentially appear on iPad on landscape mode, due to the virtual keyboard taking most of the screen's space and tampering with the component's 'vital space', which triggers malfunctions.
 
-Please find demos of the problematic behaviours attached to this issue.
+#### Please find demos of the problematic behaviours attached to this issue (src).
 
 First issue, which is actually the default behaviour of the component: the autocomplete panel may appear above the input and hide behind the browser's search bar. If you try this with Angular Material's own demo component (again, iPad, landscape mode), you'll see that the autocomplete panel appears way above the input bar and is completely unclickable without scrolling.
 
