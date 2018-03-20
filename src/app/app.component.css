@@ -1,0 +1,21 @@
+div.my-container {
+  position: absolute;
+  max-height: 650px;
+  max-width: 200px;
+  margin-top: 100px;
+  margin-left: 60px;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 200px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+div.spacer {
+  height: 1000px;
+}
