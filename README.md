@@ -18,6 +18,8 @@ If I click on option n°1, the autocomplete panel will close itself as if I had 
 
 I launched the app with Chrome, Firefox and Safari and got the same results each time.
 
+Any thoughts on this? I can make a pull request if necessary.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
